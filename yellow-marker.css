@@ -15,6 +15,18 @@ blockquote, q {
   padding: 5px;
 }
 
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+ul li {
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
 a, a:active, a:hover, a:visited {
   color: #111;
   text-decoration: none;
@@ -51,20 +63,17 @@ h3 {
 
 p {
   font-size: 16px;
-  line-height: 22px;
   margin: 0.5em 0;
 }
 
 @media screen and (min-width: 1024px) {
   p {
     font-size: 16px;
-    line-height: 23px;
   }
 }
 
 @media screen and (min-width: 600px) {
   p {
     font-size: 18px;
-    line-height: 27px;
   }
 }
