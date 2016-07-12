@@ -28,7 +28,7 @@ ul {
 
 ul li {
   padding: 0;
-  margin: 0.5em 0;
+  margin: 0.5em 0 1em 0;
 }
 
 a, a:active, a:hover, a:visited {
