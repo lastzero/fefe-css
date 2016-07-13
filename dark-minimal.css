@@ -24,11 +24,11 @@ h3, b, strong {
 }
 
 a:hover {
-  color: #c33;
+  color: #d4d382;
 }
 
 a:visited {
-  color: #c33;
+  color: #d4d382;
 }
 
 a:hover, a:hover span, a:active, a:active span {
@@ -40,7 +40,7 @@ a:hover, a:hover span, a:active, a:active span {
 }
 
 a {
-  color: #c33;
+  color: #d4d382;
   text-decoration: none;
   -webkit-transition: color .3s ease-in-out;
   transition: color .3s ease-in-out;
