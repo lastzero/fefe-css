@@ -11,6 +11,10 @@ body {
   -webkit-font-smoothing: anti-aliased;
 }
 
+body > b, body > P, body > div {
+  display: none;
+}
+
 h2 {
   display: none;
 }
