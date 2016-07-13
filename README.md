@@ -1,7 +1,7 @@
-CSS for https://blog.fefe.de/
-=============================
+CSS for Fefes Blog
+==================
 
-Stylesheets
------------
+Optimized for mobile devices:
+
+* [Spiegel Online (SPON)](https://blog.fefe.de/?css=https://lastzero.github.io/fefe-css/spon.css)
 * [Yello Marker](https://blog.fefe.de/?css=https://lastzero.github.io/fefe-css/yellow-marker.css)
-
