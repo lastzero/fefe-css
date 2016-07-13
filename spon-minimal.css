@@ -11,7 +11,7 @@ body {
   -webkit-font-smoothing: anti-aliased;
 }
 
-h2, body > p:first-child, body > b:first-child {
+h2 {
   display: none;
 }
 
