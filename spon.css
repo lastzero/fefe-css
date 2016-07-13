@@ -8,7 +8,7 @@ body {
   font-family: Verdana,Arial,Helvetica,Geneva,sans-serif;
   font-style: normal;
   font-variant: normal;
-  margin: 0;
+  margin: 0 0.83em;
   padding: 0;
   -webkit-font-smoothing: anti-aliased;
 }
