@@ -19,8 +19,9 @@ h2 {
   font-weight: bold;
 }
 
-h2 a, h2 a:visited {
+h2 a, h2 a:visited, a:hover {
   color: #ccc;
+  text-decoration: none;
 }
 
 h3, b, strong {
