@@ -19,6 +19,10 @@ h2 {
   font-weight: bold;
 }
 
+h2 a {
+  color: #ccc;
+}
+
 h3, b, strong {
   font-weight: bold;
 }
