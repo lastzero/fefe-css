@@ -19,7 +19,7 @@ h2 {
   font-weight: bold;
 }
 
-h2 a {
+h2 a, h2 a:visited {
   color: #ccc;
 }
 
